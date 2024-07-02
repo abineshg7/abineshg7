@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abineshg7&label=Profile%20views&color=0e75b6&style=flat" alt="abineshg7" /> </p>
 
-- 🌱 I’m currently learning **Data Science Professional Certificate by IBM**
+- 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 My personal website [https://ag7.pages.dev/](https://ag7.pages.dev/)
 
-- 💬 Ask me about **Python,R, UI/UX Designing**
-
-- 📫 How to reach me **ag7.pages.dev**
-
-- ⚡ Fun fact **I savor the sounds of Chase Atlantic, fueled by a steady stream of coffee.**
+- ⚡ Fun fact about me: **I savor the sounds of Chase Atlantic, fueled by a steady stream of coffee.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
