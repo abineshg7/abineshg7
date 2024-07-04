@@ -1,11 +1,11 @@
 <img width="1834" alt="Readme" src="https://github.com/abineshg7/abineshg7/assets/153627510/4b186479-fe20-4bee-82f9-86b202d4b6ac">
 
 <h1 align="center">Hi 👋, I'm AG</h1>
-<h3 align="center">A passionate Data Scientist.</h3>
+<h3 align="center">A passionate DXO Specialist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abineshg7&label=Profile%20views&color=0e75b6&style=flat" alt="abineshg7" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science and Analytics**
 
 - 👨‍💻 My personal website [https://ag7.pages.dev/](https://ag7.pages.dev/)
 
