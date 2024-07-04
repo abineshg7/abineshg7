@@ -1,5 +1,4 @@
-<img width="1834" alt="Readme" src="https://github.com/abineshg7/abineshg7/assets/153627510/c01677ac-ba33-403f-9a7e-a10008f2b1f4">
-
+<img width="1834" alt="Readme" src="https://github.com/abineshg7/abineshg7/assets/153627510/4b186479-fe20-4bee-82f9-86b202d4b6ac">
 
 <h1 align="center">Hi 👋, I'm AG</h1>
 <h3 align="center">A passionate Data Scientist.</h3>
